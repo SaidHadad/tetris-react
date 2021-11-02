@@ -6,7 +6,7 @@
   A working demo version of the classic tetris game, developed using React.js.
 
   <!-- DEPLOYED LINK -->
-  Video: https://saidhadad.github.io/tetris-react/
+  Live Link: https://saidhadad.github.io/tetris-react/
   <br>
   GitHub repository URL: https://github.com/SaidHadad/tetris-react
 
@@ -38,8 +38,11 @@
   Sidenote.- This game actually follows vanilla tetris score system so try and see how far you can get! 
   <br>
   <br>
-  ToDo.- Add a highscores table, add a "next tetromino" function so the user can plan ahead.
-  
+  ToDo.- 
+  <ul>
+   <li>Add a highscores table</li>
+   <li>Add a "next tetromino" function so the user can plan ahead.</li>
+
   ## Built With
 
   * JavaScript
