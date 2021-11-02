@@ -43,6 +43,8 @@
    <li>Add a highscores table</li>
    <li>Add a "next tetromino" function so the user can plan ahead.</li>
 
+![Tetris](./assets/Capture.JPG) <br>
+
   ## Built With
 
   * JavaScript
