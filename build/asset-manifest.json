@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/%3Crepository_name%3E/static/css/main.c9c72a67.chunk.css",
+    "main.js": "/%3Crepository_name%3E/static/js/main.b6656174.chunk.js",
+    "main.js.map": "/%3Crepository_name%3E/static/js/main.b6656174.chunk.js.map",
+    "runtime-main.js": "/%3Crepository_name%3E/static/js/runtime-main.5bba05a4.js",
+    "runtime-main.js.map": "/%3Crepository_name%3E/static/js/runtime-main.5bba05a4.js.map",
+    "static/js/2.3314f025.chunk.js": "/%3Crepository_name%3E/static/js/2.3314f025.chunk.js",
+    "static/js/2.3314f025.chunk.js.map": "/%3Crepository_name%3E/static/js/2.3314f025.chunk.js.map",
+    "static/js/3.c0490d22.chunk.js": "/%3Crepository_name%3E/static/js/3.c0490d22.chunk.js",
+    "static/js/3.c0490d22.chunk.js.map": "/%3Crepository_name%3E/static/js/3.c0490d22.chunk.js.map",
+    "index.html": "/%3Crepository_name%3E/index.html",
+    "static/css/main.c9c72a67.chunk.css.map": "/%3Crepository_name%3E/static/css/main.c9c72a67.chunk.css.map",
+    "static/js/2.3314f025.chunk.js.LICENSE.txt": "/%3Crepository_name%3E/static/js/2.3314f025.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/%3Crepository_name%3E/static/media/Pixel-LCD-7.63d9c151.woff",
+    "static/media/bg.d63cfd51.png": "/%3Crepository_name%3E/static/media/bg.d63cfd51.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5bba05a4.js",
+    "static/js/2.3314f025.chunk.js",
+    "static/css/main.c9c72a67.chunk.css",
+    "static/js/main.b6656174.chunk.js"
+  ]
+}
